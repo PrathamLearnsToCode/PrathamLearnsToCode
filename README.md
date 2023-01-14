@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **interdisciplinary field of Machine Learning and healthcare**
 
-- 🌱 I’m currently learning **Natural Language Processing, Django and Flask**
+- 🌱 I’m currently learning **Natural Language Processing, Web3, Django and Flask**
 
 - 👯 I’m looking to collaborate on **Real world Computer Vision applications**
 
