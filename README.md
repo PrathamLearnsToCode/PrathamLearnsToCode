@@ -1,6 +1,3 @@
-
-![banner](https://github.com/IdealisticINTJ/IdealisticINTJ/assets/65449934/b03a3821-5729-4b87-a290-59765340d992)
-
 ## About
 
 Pratham Grover. I am a fourth-year undergraduate student at [Delhi technological University](https://www.dtu.ac.in/). I'm a machine learning engineer and developer advocate based in India, having worked at Microsoft and scaled communities at [Google Developers](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/). My other interests aside from machine learning are backend development and distributed systems. Always up to discuss on diffusion models, developer tools, health informatics, human-computer interaction, transhumanism, and literature!
@@ -14,22 +11,19 @@ Pratham Grover. I am a fourth-year undergraduate student at [Delhi technological
 </table>
 
 
-## Timeline
+## Working History
 
-- Community Manager, [Koii Network](https://www.koii.network/) (August 2023 - Present)
-- Technical Content Writer and Developer Advocate Intern, [AssetMantle](https://www.assetmantle.one/) (April 2023 - September 2023)
-- Differential Privacy Apprentice, [OpenMined](https://github.com/OpenMined) (July 2022 - Present)
-- Software Development Engineer Intern, [Microsoft India](https://apps.microsoft.com/home?hl=en-us&gl=US) (May 2023 – July 2023)
-- Computational Bio-science Research Intern, [Carnegie Mellon University](https://xulabs.github.io/) (November 2022 - May 2023)
-- Explore ML Facilitator, [Google Crowdsource](https://crowdsource.google.com/about/) (October 2022 - October 2023)
-- Community Lead, [Google Developers Student Club VIT-AP](https://github.com/gdsc-vitap) (October 2022 - August 2023)
-- Computer Vision Consultant, [Beneufit Inc.](https://www.beneufit.com/) (June 2022 – September 2022)
-- DL Lead Teaching Assistant, [Neuromatch Academy](https://academy.neuromatch.io/about) (June 2022 - August 2022)
-- Computer Vision Engineer, [Artenal](http://artenal.ca/) (November 2021 – May 2022)
-- Machine Learning Researcher, [PathCheck Foundation](https://www.pathcheck.org/) (February 2022 - May 2022)
-- Undergraduate Student Researcher, [Artificial Intelligence and Robotics Center](https://vitap.ac.in/air-center) (February 2022 - March 2023)
-- Junior Machine Learning Engineer, [Omdena](https://omdena.com/) (November 2021 – February 2022)
-- Python Developer, [Codebugged AI](https://codebugged.com/) (September 2021 - November 2021)
+- Research Intern, [Virgina tech](https://www.vt.edu/) (August 2023 - Present)
+- Deep Learning Intern, [VSquare](https://www.vsquaremedi.com/) (Nov 2023)
+- Computer Vision summer intern, [Siemens](https://www.siemens.com/in/en.html?gclid=Cj0KCQiAyKurBhD5ARIsALamXaFKlI3K6O3_mO4sXld-8Q_QM5HxjHu0BrQ50rRQJ1lvTne5TZRh67AaAqknEALw_wcB&acz=1&gad_source=1) (June 2023 – October 2023)
+- AI research Intern, [Samsung R&D lab](https://research.samsung.com/sri-b) (Feb 2023 - May2023)
+- Computer Vision Intern, [Stemz Healthcare](https://www.stemzhealthcare.com/) (Feb 2023 - April 2023)
+- Research Intern, [University of Technology Sydney](http://www.uts.edu.au/) (June 2022 - Jan 2023)
+- Research Intern, [Delhi Technological University (Formerly DCE)](https://www.linkedin.com/school/delhi-technological-university-formerly-dce/) (June 2022 - August 2022)
+- Machine Learning Undergraduate Researcher, [Calibre DTU](https://www.linkedin.com/company/calibre-dtu/about/) (Feb 2022 – May 2022)
+- Data Science Intern, [Neoperk Technologies Private Limited](https://www.neoperk.co) (Feb 2022 - March 2022)
+- Machine Learning Intern, [Spartificial](https://www.spartificial.com/) (Nov 2021 – December 2021)
+
 
 ## Current Endeavors
 * Exploring techniques to ensure privacy at the participant level in federated learning setups
@@ -62,8 +56,7 @@ I am actively seeking full-time opportunities in:
 <p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
 
 ## Social
-
-1. [LinkedIn](https://www.linkedin.com/in/salma7)
+1. [LinkedIn](https://www.linkedin.com/in/pratham-grover-428123147/)
 2. [Kaggle](https://www.kaggle.com/prathamgrover)
 
 
