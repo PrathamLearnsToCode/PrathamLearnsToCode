@@ -4,7 +4,6 @@ Hi, I'm Pratham Grover. I am a fourth-year undergraduate student pursuing biotec
 
 <table>
   <tr>
-      <td><a href="https://github.com/PrathamLearnsToCode"><img src="https://img.shields.io/github/followers/IdealisticINTJ.svg?label=GitHub&style=social" alt="GitHub"></a></td>
       <td><a href="https://www.linkedin.com/in/pratham-grover-428123147/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
       <td><a href="mailto:prathamgrover777@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
   </tr>
