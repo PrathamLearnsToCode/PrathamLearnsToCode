@@ -39,6 +39,7 @@ I am actively seeking full-time opportunities in:
 ## Social
 1. [LinkedIn](https://www.linkedin.com/in/pratham-grover-428123147/)
 2. [Kaggle](https://www.kaggle.com/prathamgrover)
+3. [Google Scholar]([https://www.kaggle.com/prathamgrover](https://scholar.google.com/citations?user=drjbTFAAAAAJ&hl=en))
 
 
 
