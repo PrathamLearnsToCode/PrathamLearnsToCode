@@ -1,6 +1,6 @@
 ## About
 
-Pratham Grover. I am a fourth-year undergraduate student at [Delhi technological University](https://www.dtu.ac.in/). I'm a machine learning engineer and developer advocate based in India, having worked at Microsoft and scaled communities at [Google Developers](https://gdsc.community.dev/vellore-institute-of-technology-vit-vellore/). My other interests aside from machine learning are backend development and distributed systems. Always up to discuss on diffusion models, developer tools, health informatics, human-computer interaction, transhumanism, and literature!
+Hi, I'm Pratham Grover. I am a fourth-year undergraduate student pursuing biotechnology with a minor in AI&ML at [Delhi technological University](https://www.dtu.ac.in/). I'm a curious about machine works and love to automate everything around me. Besides ML, I am passionate about Astrophysics and Natural Language processing.
 
 <table>
   <tr>
@@ -25,35 +25,17 @@ Pratham Grover. I am a fourth-year undergraduate student at [Delhi technological
 - Machine Learning Intern, [Spartificial](https://www.spartificial.com/) (Nov 2021 – December 2021)
 
 
-## Current Endeavors
-* Exploring techniques to ensure privacy at the participant level in federated learning setups
-* Pipeline for 3D cell segmentation
-* My podcast where I plan to stream computer science tutorials and dissect the latest research papers
+## Currently Learning
+* Exploring Machine Learning Deployment techniques
+* Prompt engineering with Langchain
+* Data Structure & Algorithms
 
-
-## Seeking Opportunities
-[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-%230759EA)](https://drive.google.com/file/d/1VT-hUrbOhNeMmIpbSM8v9wzKK6aIvvOL/view?usp=sharing)
 
 I am actively seeking full-time opportunities in:
 * Computer Vision.
 * Applied Machine Learning.
 * Research Lab groups.
 
-
-## Github Stats
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idealisticintj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=idealisticintj&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br>
-<p> <img src="https://komarev.com/ghpvc/?username=idealisticintj&color=0759EA" alt="salma" /> </p>
 
 ## Social
 1. [LinkedIn](https://www.linkedin.com/in/pratham-grover-428123147/)
