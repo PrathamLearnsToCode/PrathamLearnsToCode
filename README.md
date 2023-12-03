@@ -30,7 +30,7 @@ Hi, I'm Pratham Grover. I am a fourth-year undergraduate student pursuing biotec
 * Data Structure & Algorithms
 
 
-I am actively seeking full-time opportunities in:
+I am actively seeking full-time opportunities starting July/August 2024 in following areas:
 * Computer Vision.
 * Applied Machine Learning.
 * Research Lab groups.
