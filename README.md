@@ -27,7 +27,8 @@ Hi, I'm Pratham Grover. I am a fourth-year undergraduate student pursuing biotec
 ## Currently Learning
 * Exploring Machine Learning Deployment techniques
 * Prompt engineering with Langchain
-* Data Structure & Algorithms
+* Machine Learning system design
+* Data Structures & Algorithms
 
 
 I am actively seeking full-time opportunities starting July/August 2024 in following areas:
