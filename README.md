@@ -43,6 +43,8 @@ I am actively seeking full-time opportunities starting July/August 2024 in follo
 1. [LinkedIn](https://www.linkedin.com/in/pratham-grover-428123147/)
 2. [Kaggle](https://www.kaggle.com/prathamgrover)
 3. [Google Scholar](https://scholar.google.com/citations?user=drjbTFAAAAAJ&hl=en)
+4. [Leetcode](https://leetcode.com/PrathamLearnsToCode/)
+   
 
 
 
