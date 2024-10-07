@@ -11,7 +11,7 @@ Hi, I'm Pratham Grover. I am a fourth-year undergraduate student pursuing biotec
 
 
 ## Working History
-
+- Software developer, [DeepIQ](https://www.vt.edu/) (March 2024 - Present)
 - Research Intern, [Virgina tech](https://www.vt.edu/) (August 2023 - Present)
 - Deep Learning Intern, [VSquare](https://www.vsquaremedi.com/) (Nov 2023)
 - Computer Vision summer intern, [Siemens](https://www.siemens.com/in/en.html?gclid=Cj0KCQiAyKurBhD5ARIsALamXaFKlI3K6O3_mO4sXld-8Q_QM5HxjHu0BrQ50rRQJ1lvTne5TZRh67AaAqknEALw_wcB&acz=1&gad_source=1) (June 2023 – October 2023)
@@ -25,18 +25,11 @@ Hi, I'm Pratham Grover. I am a fourth-year undergraduate student pursuing biotec
 
 
 ## Currently Learning
-* Machine Learning Deployment 
-* Fine tuning LLMs for custom use case
 * Machine Learning system design
 * Data Structures & Algorithms
 * MERN stack development
   
 
-
-I am actively seeking full-time opportunities starting July/August 2024 in following areas:
-* Computer Vision.
-* Applied Machine Learning.
-* Research Lab groups.
 
 
 ## Social
