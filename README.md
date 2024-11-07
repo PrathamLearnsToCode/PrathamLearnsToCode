@@ -1,6 +1,6 @@
 ## About
 
-Hi, I'm Pratham Grover. I am a fourth-year undergraduate student pursuing biotechnology with a minor in AI&ML at [Delhi technological University](https://www.dtu.ac.in/). I'm a curious about how machine works and love to automate everything around me. Besides tech, I love Astrophysics, music, mixed martial arts, poetry and watching documentaries.
+Hi, I'm Pratham Grover. I completed my undergraduate at [Delhi technological University](https://www.dtu.ac.in/) with a major in biotechnology and a minor in AI & Machine Learning. I'm curious about how machine works and love to automate everything. Besides tech, I love Astrophysics, music, mixed martial arts, F1 and watching documentaries.
 
 <table>
   <tr>
@@ -25,7 +25,7 @@ Hi, I'm Pratham Grover. I am a fourth-year undergraduate student pursuing biotec
 
 
 ## Currently Learning
-* Machine Learning system design
+* LLM deployments
 * Data Structures & Algorithms
 * MERN stack development
   
