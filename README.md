@@ -11,7 +11,8 @@ Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological
 
 
 ## Working History
-- Software developer, [DeepIQ](https://www.vt.edu/) (March 2024 - Present)
+- Research SDE, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (January 2024 - Current)
+- Software developer, [DeepIQ](https://www.vt.edu/) (March 2024 - December 2024)
 - Research Intern, [Virgina tech](https://www.vt.edu/) (August 2023 - Present)
 - Deep Learning Intern, [VSquare](https://www.vsquaremedi.com/) (Nov 2023)
 - Computer Vision summer intern, [Siemens](https://www.siemens.com/in/en.html?gclid=Cj0KCQiAyKurBhD5ARIsALamXaFKlI3K6O3_mO4sXld-8Q_QM5HxjHu0BrQ50rRQJ1lvTne5TZRh67AaAqknEALw_wcB&acz=1&gad_source=1) (June 2023 – October 2023)
