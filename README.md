@@ -28,9 +28,9 @@ You can find my portfolio here too - [Pratham Grover](https://prathamlearnstocod
 
 
 ## Currently Learning
-* LLM deployments
-* Data Structures & Algorithms
-* MERN stack development
+* Distributed systems
+* LLM Reasoning
+* AI for program synthesis
   
 
 
@@ -39,7 +39,6 @@ You can find my portfolio here too - [Pratham Grover](https://prathamlearnstocod
 1. [LinkedIn](https://www.linkedin.com/in/pratham-grover-428123147/)
 2. [Kaggle](https://www.kaggle.com/prathamgrover)
 3. [Google Scholar](https://scholar.google.com/citations?user=drjbTFAAAAAJ&hl=en)
-4. [Leetcode](https://leetcode.com/PrathamLearnsToCode/)
    
 
 
