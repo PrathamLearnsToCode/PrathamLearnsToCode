@@ -2,7 +2,6 @@
 
 Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological University](https://www.dtu.ac.in/) with a major in biotechnology and a minor in AI & Machine Learning. I'm curious about how machine works and love to automate everything. Besides tech, I love Astrophysics, music, mixed martial arts, F1 and watching documentaries.
 
-You can find my portfolio here too - [Pratham Grover](https://prathamlearnstocode.github.io/)
 
 <table>
   <tr>
@@ -27,11 +26,6 @@ You can find my portfolio here too - [Pratham Grover](https://prathamlearnstocod
 - Machine Learning Intern, [Spartificial](https://www.spartificial.com/) (Nov 2021 – December 2021)
 
 
-## Currently Learning
-* Distributed systems
-* LLM Reasoning
-* AI for program synthesis
-  
 
 
 
