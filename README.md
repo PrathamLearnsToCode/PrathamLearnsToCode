@@ -12,6 +12,7 @@ Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological
 
 
 ## Working History
+- Co-founder, [Stealth] (Launching 2026)
 - Founder, [TensorTonic](https://www.tensortonic.com/) (4000+ users)
 - Research SDE, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (January 2024 - Current)
 - Software developer, [DeepIQ](https://www.vt.edu/) (March 2024 - December 2024)
