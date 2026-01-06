@@ -1,6 +1,7 @@
 ## About
 
 Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological University](https://www.dtu.ac.in/) with a major in biotechnology and a minor in AI & Machine Learning. I'm curious about how machine works and love to automate everything. Besides tech, I love Astrophysics, music, mixed martial arts, F1 and watching documentaries.
+I have deep interest in software, systems & ML. I have FAFO'd with almost everything in these 3 and come to conclusion that I equally love all of them and have no interest in sticking to only one. I love building websites(ML people hate this), scaling infra(loved by both) & general ML research(software people hate this). Plus, I have experience in taking products from 0 -> 1. I am building tensortonic, which has currently 5000+ users (1000+ active) & I am building {Revealing soon, launch is in late january 2026} too. 
 
 
 <table>
@@ -12,7 +13,7 @@ Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological
 
 
 ## Working History
-- Founder, [TensorTonic](https://www.tensortonic.com/) (4000+ users)
+- Founder, [TensorTonic](https://www.tensortonic.com/) (5500+ users)
 - Research SDE, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (January 2024 - Current)
 - Software developer, [DeepIQ](https://www.vt.edu/) (March 2024 - December 2024)
 - Research Intern, [Virgina tech](https://www.vt.edu/) (August 2023 - December 2024)
