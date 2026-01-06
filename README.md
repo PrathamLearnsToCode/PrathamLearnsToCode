@@ -3,6 +3,8 @@
 Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological University](https://www.dtu.ac.in/) with a major in biotechnology and a minor in AI & Machine Learning. I'm curious about how machine works and love to automate everything. Besides tech, I love Astrophysics, music, mixed martial arts, F1 and watching documentaries.
 I have deep interest in software, systems & ML. I have FAFO'd with almost everything in these 3 and come to conclusion that I equally love all of them and have no interest in sticking to only one. I love building websites(ML people hate this), scaling infra(loved by both) & general ML research(software people hate this). Plus, I have experience in taking products from 0 -> 1. I am building tensortonic, which has currently 5000+ users (1000+ active) & I am building {Revealing soon, launch is in late january 2026} too. 
 
+P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont lose my hair.
+
 
 <table>
   <tr>
