@@ -39,8 +39,8 @@ P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont 
 1. [LinkedIn](https://www.linkedin.com/in/pratham-grover-428123147/)
 2. [Kaggle](https://www.kaggle.com/prathamgrover)
 3. [Google Scholar](https://scholar.google.com/citations?user=drjbTFAAAAAJ&hl=en)
-4. [SubStack] (https://substack.com/@prathamgrover)
-5. [Medium] (https://medium.com/@prathamgrover777)
+4. [SubStack](https://substack.com/@prathamgrover)
+5. [Medium](https://medium.com/@prathamgrover777)
    
 
 
