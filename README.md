@@ -1,7 +1,7 @@
 ## About
 
-Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological University](https://www.dtu.ac.in/) with a major in biotechnology and a minor in AI & Machine Learning. I love to automate everything. Besides tech, I love Astrophysics, music, mixed martial arts, F1 and watching documentaries.
-I have deep interest in software, systems & ML. I have FAFO'd with almost everything in these 3 and come to conclusion that I equally love all of them. I love general ML research(software people hate this), building websites(ML people hate this) & scaling infra(loved by both) . Plus, I have experience in taking products from 0 -> 1. I am building tensortonic, which has currently 20000+ users & I am building {Revealing soon, launch is in late Feb 2026} too. 
+Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological University](https://www.dtu.ac.in/) with a major in biotechnology and a minor in AI & Machine Learning. Besides tech, I love Astrophysics, music, mixed martial arts, F1 and watching documentaries.
+I have deep interest in software, systems & ML. I have FAFO'd with almost everything in these 3 and come to conclusion that I equally love all of them. I love general ML research(software people hate this), building websites(ML people hate this) & scaling infra(loved by both). Plus, I have experience in taking products from 0 -> 1. I am building tensortonic, which has currently 30000+ users & Citecat, which has 100+ users. 
 
 P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont lose my hair.
 
@@ -15,7 +15,9 @@ P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont 
 
 
 ## Working History
-- Founder, [TensorTonic](https://www.tensortonic.com/) (25000+ users)
+
+- Founder, [TensorTonic](https://www.tensortonic.com/) (30000+ users)
+- Co-Founder, [CiteCat](https://citecat.com/) (100+ users)
 - Research SDE, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (January 2024 - Current)
 - Software developer, [DeepIQ](https://www.vt.edu/) (March 2024 - December 2024)
 - Research Intern, [Virgina tech](https://www.vt.edu/) (August 2023 - December 2024)
@@ -37,6 +39,8 @@ P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont 
 1. [LinkedIn](https://www.linkedin.com/in/pratham-grover-428123147/)
 2. [Kaggle](https://www.kaggle.com/prathamgrover)
 3. [Google Scholar](https://scholar.google.com/citations?user=drjbTFAAAAAJ&hl=en)
+4. [SubStack] (https://substack.com/@prathamgrover)
+5. [Medium] (https://medium.com/@prathamgrover777)
    
 
 
