@@ -16,12 +16,10 @@ P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont 
 
 ## Working History
 
-- Founder, [TensorTonic](https://www.tensortonic.com/) (30000+ users)
-- Co-Founder, [CiteCat](https://citecat.com/) (100+ users)
+- Founder, [TensorTonic](https://www.tensortonic.com/) (35000+ users)
+- Co-Founder, [CiteCat](https://citecat.com/) (100+ users) (left working bec frontier labs outpaced us)
 - Research SDE, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (January 2024 - Current)
-- Software developer, [DeepIQ](https://www.vt.edu/) (March 2024 - December 2024)
 - Research Intern, [Virgina tech](https://www.vt.edu/) (August 2023 - December 2024)
-- Deep Learning Intern, [VSquare](https://www.vsquaremedi.com/) (Nov 2023)
 - Computer Vision summer intern, [Siemens](https://www.siemens.com/in/en.html?gclid=Cj0KCQiAyKurBhD5ARIsALamXaFKlI3K6O3_mO4sXld-8Q_QM5HxjHu0BrQ50rRQJ1lvTne5TZRh67AaAqknEALw_wcB&acz=1&gad_source=1) (June 2023 – October 2023)
 - AI research Intern, [Samsung R&D lab](https://research.samsung.com/sri-b) (Feb 2023 - May2023)
 - Computer Vision Intern, [Stemz Healthcare](https://www.stemzhealthcare.com/) (Feb 2023 - April 2023)
@@ -29,8 +27,6 @@ P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont 
 - Research Intern, [Delhi Technological University (Formerly DCE)](https://www.linkedin.com/school/delhi-technological-university-formerly-dce/) (June 2022 - August 2022)
 - Machine Learning Undergraduate Researcher, [Calibre DTU](https://www.linkedin.com/company/calibre-dtu/about/) (Feb 2022 – May 2022)
 - Data Science Intern, [Neoperk Technologies Private Limited](https://www.neoperk.co) (Feb 2022 - March 2022)
-- Machine Learning Intern, [Spartificial](https://www.spartificial.com/) (Nov 2021 – December 2021)
-
 
 
 
