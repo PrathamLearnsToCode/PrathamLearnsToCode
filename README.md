@@ -17,8 +17,8 @@ P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont 
 ## Working History
 
 - Founder, [TensorTonic](https://www.tensortonic.com/) (40000+ users)
+- Research SDE, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (January 2025 - July 2026)
 - Co-Founder, [CiteCat](https://citecat.com/) (100+ users) (left working bec frontier labs outpaced us)
-- Research SDE, [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (January 2024 - Current)
 - Research Intern, [Virgina tech](https://www.vt.edu/) (August 2023 - December 2024)
 - Computer Vision summer intern, [Siemens](https://www.siemens.com/in/en.html?gclid=Cj0KCQiAyKurBhD5ARIsALamXaFKlI3K6O3_mO4sXld-8Q_QM5HxjHu0BrQ50rRQJ1lvTne5TZRh67AaAqknEALw_wcB&acz=1&gad_source=1) (June 2023 – October 2023)
 - AI research Intern, [Samsung R&D lab](https://research.samsung.com/sri-b) (Feb 2023 - May2023)
