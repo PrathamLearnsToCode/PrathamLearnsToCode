@@ -1,6 +1,6 @@
 ## About
 
-Hi, I'm Pratham Grover. I completed my undergraduation from [Delhi technological University](https://www.dtu.ac.in/) with a major in biotechnology and a minor in AI & Machine Learning. Besides tech, I love Astrophysics, music, mixed martial arts, F1 and watching documentaries.
+Hi, I'm Pratham Grover, 25. I completed my undergraduation from [Delhi technological University](https://www.dtu.ac.in/) with a major in biotechnology and a minor in AI & Machine Learning. Besides tech, I love Astrophysics, music, mixed martial arts, F1 and watching documentaries.
 I have deep interest in software, systems & ML. I have FAFO'd with almost everything in these 3 and come to conclusion that I equally love all of them. I love general ML research(software people hate this), building websites(ML people hate this) & scaling infra(loved by both). Plus, I have experience in taking products from 0 -> 1. I am building tensortonic, which has currently 40000+ users & Citecat(discontinued), which has 100+ users. 
 
 P.S. Made a resolution of learning RL & CUDA programming in 2026. I hope i dont lose my hair.
